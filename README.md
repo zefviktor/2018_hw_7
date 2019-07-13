@@ -1,1 +1,1 @@
-# zefviktor.github.io/2018_hw_7
+# https://zefviktor.github.io/2018_hw_7
