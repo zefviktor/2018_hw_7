@@ -1,0 +1,40 @@
+.header
+  &__background
+    background-color: #fff
+    overflow: hidden
+  &__follow
+    padding-bottom: 40px
+    &-icon
+      font-size: 48px
+      color: white
+      transition: .2s
+      &:hover
+        color: #8d81ac
+  &-navigation
+    @media  (max-width: 992px)
+      background-color: #333333
+      .navbar-nav
+        width: 100%
+        .active .nav-link
+          color: #858585
+        .nav-link
+          padding: 40px 15px
+          color: white
+          font-size: 32px
+          border-bottom: 1px solid rgba(255, 255, 255, 0.04)
+          transition: .2s
+          &:hover
+            color: #8d81ac
+
+  &__logo
+    text-decoration: none
+    &-icon
+      background: url("../img/Shape_1.png") no-repeat
+      width: 43px
+      height: 41px
+    &-text
+      font-family: $font-family-montserrat
+      text-transform: uppercase
+      margin-left: 18px
+      font-size: $font-size-big
+      font-weight: $font-weight-400

@@ -1,1 +1,1 @@
-# zefviktor.github.io/resume2018_hw_7
+# zefviktor.github.io/2018_hw_7
